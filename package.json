@@ -1,0 +1,20 @@
+{
+  "name": "diktator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/text-to-speech": "^3.4.0",
+    "audio-play": "^2.3.1",
+    "express": "^4.17.3",
+    "play-sound": "^1.1.5",
+    "say": "^0.16.0",
+    "simple-text-diff": "^1.7.0",
+    "text-diff": "^1.0.1"
+  }
+}
